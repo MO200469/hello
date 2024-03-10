@@ -1,8 +1,6 @@
-# File: CS112_A1_T2_1_20230339.py
-# Purpose: A two-player game that let you choose a number from 1 to 10 and adds it to the sum.
-#          The first player that gets to 100 wins and if the sum is more than 100 the game ends in draw
-# Author: Mohamed Sayed Abdel Aziz
-# ID: 20230339
+# Purpose: A two-player game that lets you choose a number from 1 to 10 and adds it to the sum.
+#         The first player that gets to 100 wins and if the sum is more than 100 the game ends in draw
+
 
 def main():
     # Initializing the sum, Welcome screen, and displaying the rules and the sum
